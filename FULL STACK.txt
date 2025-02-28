@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------
+DAY - 01(30-5-2024-thursday)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+- Heading Tags: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
+- Paragraph Tags: `<p>`
+- Anchor Tags: `<a>`
+- Body Tag: `<body>`
+- Image Tag: `<img>`
+* source - src
+- Lists Tag :<l1>
+* order list <ol>
+* unorder list <ul>
+- block element: <div>
+- common attributes
+<id>
+<class>
+<title>
+<img>
+<a>
+-href
+-target
+-self
+-blank
+-new
+--------------------------------------------------------------------------------------------------------------------------------------------------
+-iframe hw
+ans: An inline frame (iframe) is a HTML element that loads another HTML page within the document. 
+-icon hw
+ans: To insert an icon, add the name of the icon class to any inline HTML element. The <i> and <span> elements are widely used to add icons. 
+cls hw
+ans : The HTML class attribute specifies one or more class names for an element. 
+basic tags hw
+ans :
+<h1></h1> This tag defines the HTML headings. ...
+<p></p> This tag defines a paragraph. ...
+<img> The image tag allows us to insert images into a web page. ...
+<a></a> The <a> tag or the anchor tag allows us to link one web page to another page or a section of the same page
+div usage hw
+ans :The <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements
+<div class="myDiv">
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
+</div>
+table hw
+ans :The <table> tag defines an HTML table.
+
+An HTML table consists of one <table> element and one or more <tr>, <th>, and <td> elements.
+
+The <tr> element defines a table row, the <th> element defines a table header, and the <td> element defines a table cell.
+-------------------------------------------------------------------------------------------------------------------------------------------------
